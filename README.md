@@ -1,2 +1,2 @@
 # 2025-Beyond
-AI Club
+AI Engineering Project
